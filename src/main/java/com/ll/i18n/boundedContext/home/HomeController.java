@@ -1,4 +1,4 @@
-package com.ll.i18n;
+package com.ll.i18n.boundedContext.home;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
